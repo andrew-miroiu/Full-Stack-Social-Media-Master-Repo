@@ -1,5 +1,7 @@
 # Full-Stack-Social-Media-Master-Repo
 
-Link to platform with NODE backend: https://github.com/andrew-miroiu/Social-Media-App-TypeScript
+This repo is a wrapper for my social media platform repos. I implemented the frontend with react & typescript and 2 backend services, one in Node and one in Java, both using Supabase and connected to the same database.
 
-Link to platform with SPRING-BOOT backend: https://github.com/andrew-miroiu/Social-Media-Platform-React-Springboot-
+NODE repository: https://github.com/andrew-miroiu/Social-Media-App-TypeScript
+
+SPRING-BOOT repository: https://github.com/andrew-miroiu/Social-Media-Platform-React-Springboot-
